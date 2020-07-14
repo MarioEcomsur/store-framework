@@ -15,7 +15,6 @@
       }
     }
   },
-
   "product-summary.shelf": {
     "children": [
       "product-summary-name",
