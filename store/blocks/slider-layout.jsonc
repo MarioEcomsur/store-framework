@@ -44,11 +44,5 @@
           "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png",
           "maxHeight": 60
         }
-      },
-      "image#brand7": {
-        "props": {
-          "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png",
-          "maxHeight": 60
-        }
       }
 }
