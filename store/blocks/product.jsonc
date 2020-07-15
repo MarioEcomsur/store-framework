@@ -28,7 +28,6 @@
       "product-price",
       "flex-layout.row#qty-sku",
       "product-name",
-      "product-identifier.product",
       "buy-button"
     ]
   },
@@ -58,8 +57,7 @@
   "flex-layout.row#qty-sku": {
     "children": [
       "sku-selector",
-      "product-quantity",
-      "shipping-simulator"
+      "product-quantity"
     ]
   },
   "sku-selector": {
@@ -71,11 +69,11 @@
     "props": {
       "warningQuantityThreshold": 9999999
     }
-  },
-  "shipping-simulator": {
+  }
+ /* "shipping-simulator": {
     "props": {
       "skuID": "342"
     }
-  }
+  }*/
 
 }
