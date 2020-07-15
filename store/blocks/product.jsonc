@@ -64,10 +64,5 @@
     "props": {
       "hideImpossibleCombinations": false
     }
-  },
-  "product-quantity": {
-    "props": {
-      "warningQuantityThreshold": 9999999
-    }
   }
 }
