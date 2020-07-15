@@ -19,6 +19,10 @@
     ]
   },
   "flex-layout.col#right": {
+    "props":{
+      "verticalAlign":"top",
+      "preventVerticalStretch":true
+    },
     "children": [
       "product-price",
       "product-name",
