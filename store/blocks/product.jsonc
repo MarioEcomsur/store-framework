@@ -71,6 +71,11 @@
     "props": {
       "warningQuantityThreshold": 9999999
     }
+  },
+  "shipping-simulator": {
+    "props": {
+      "skuID": "342"
+    }
   }
 
 }
