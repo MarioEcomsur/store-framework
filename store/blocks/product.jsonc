@@ -1,7 +1,7 @@
 {
   "store.product": {
     "children": [
-     // "breadcrumb",
+      "breadcrumb",
       "flex-layout.row#main"
     ]
   },
@@ -63,6 +63,11 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false
+    }
+  },
+  "product-quantity": {
+    "props": {
+      "warningQuantityThreshold": 9999999
     }
   }
 }
