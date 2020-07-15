@@ -54,7 +54,7 @@
   "tab-list.item#home2":{
     "props":{
       "tabId": "electronics",
-      "label": "Major Electronics",
+      "label": "Electronics",
       "defaultActiveTab": true
     }
   },
@@ -93,5 +93,4 @@
       "font": "t-heading-3"
     }
   }
-  
  }
