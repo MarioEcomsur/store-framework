@@ -46,21 +46,21 @@
         "inverted": true,
         "fullWidth": false
     }
-},
-"header-row#main-mobile": {
-        "children": [
-            "logo",
-            "header-spacer",
-            "search-bar",
-            "minicart",
-            "login"
-        ],
-        "props": {
-            "sticky": true,
-            "inverted": true,
-            "fullWidth": false
-        }
-},
+    },
+    "header-row#main-mobile": {
+            "children": [
+                "logo",
+                "header-spacer",
+                "search-bar",
+                "minicart",
+                "login"
+            ],
+            "props": {
+                "sticky": true,
+                "inverted": true,
+                "fullWidth": false
+            }
+    },
   "header-row#search": {
     "children": [
       "search-bar"
@@ -87,6 +87,4 @@
       "textPosition": "CENTER"
     }
   }
-
-
 }
