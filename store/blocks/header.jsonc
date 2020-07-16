@@ -49,19 +49,18 @@
 },
 "header-row#main-mobile": {
     "children": [
-      "logo",
-      "header-spacer",
-      "search-bar",
-      "minicart",
-      "login"
+        "drawer",
+        "logo",
+        "header-spacer",
+        "minicart",
+        "login"
     ],
-   "props": {
-      "sticky": true,
-      "inverted":true,
-      "fullWidth": false
+    
+    "props": {
+        "sticky": true,
+        "inverted":true
     }
-  },
-  
+},
   "header-row#search": {
     "children": [
       "search-bar"
