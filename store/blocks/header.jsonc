@@ -55,8 +55,7 @@
       "minicart",
       "login"
     ],
-  
-    "props": {
+   "props": {
       "sticky": true,
       "inverted":true,
       "fullWidth": false
@@ -89,5 +88,5 @@
       "textPosition": "CENTER"
     }
   }
-  
+
 }
