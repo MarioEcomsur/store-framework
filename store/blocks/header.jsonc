@@ -16,7 +16,7 @@
     "children": [
       "header-row#notification",
       "header-row#main",
-      "header-row#menu "
+      "header-row#menu"
     ]
   },
 
@@ -90,9 +90,9 @@
   },
   "header-row#menu": {
     "children": [
-      "header-spacer",
-      "vtex.menu@2.x:menu#categories",
-      "header-spacer"
+        "header-spacer",
+        "vtex.menu@2.x:menu#categories",
+        "header-spacer"
     ]
   }
 
